@@ -1,0 +1,13 @@
+Show Stopper
+
+1) Data Login
+2) Z-Coordinate for location
+3) Biometric
+
+Reasons :
+
+1) Data Login - Suppose student does not have internet connection or wifi is not working , in order to mark himself as present, he/she will press button for marking him present , but when internet is active on his mobile , at that time this request will be sent and responded accordingly.
+
+2) Z- Coordinate - Suppose class is conducted in ground floor class room and there is a class room exactly above this room , since both have same x-y coordinates , we need a z-coordinate to distinguish both roooms.
+
+3) Biometric - Needed to verify that student himself requests for marking him present and not his friend.
